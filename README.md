@@ -1,4 +1,4 @@
-# adiba-portfolio
+
 # Hi, I’m Adiba, an Aspiring Product Manager obsessed with design, user experience, and growth
 # Education
 
