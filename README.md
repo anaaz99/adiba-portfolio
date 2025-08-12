@@ -9,6 +9,7 @@
 <body>
   <header>
     <h1>Adiba Naaz</h1>
+     <img src="images/profile.jpg" alt="Adiba Naaz">
     <p>Product Manager | UX Enthusiast | Problem Solver</p>
   </header>
 
